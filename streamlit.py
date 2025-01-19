@@ -5,5 +5,5 @@ sl.markdown('Welcome to my portfolio! My name is Elizaveta Petrova, and this web
 sl.markdown('────୨ৎ────')
 sl.markdown('I had my education in many places, with 6 years in England (Bolton School), a year in Austria (Amadeus International School Vienna), and two years in Russia (Heritage School and English Insternational School).')
 a, b = sl.columns(2)
-a.image('C:/Users/Lisa/PycharmProjects/pythonProject2/malbertpainting/malbert.png')
+a.image('malbert.png')
 
